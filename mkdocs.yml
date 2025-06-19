@@ -1,0 +1,7 @@
+site_name: Frimmy
+site_url: https://frimmy.com_
+site_author: Frimmy
+theme:
+  name: material
+site_description: >-
+  Personal notes, web experiments
